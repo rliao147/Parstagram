@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "ceeb30a3b67fc635feab7e0046c2b43d"
+build_time: [1557655052, 859322000]
+inputs:
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/AlamofireImage/Source/AFIError.swift": [1557653107, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/AlamofireImage/Source/Image.swift": [1557653107, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/AlamofireImage/Source/ImageCache.swift": [1557653107, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/AlamofireImage/Source/ImageDownloader.swift": [1557653107, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/AlamofireImage/Source/ImageFilter.swift": [1557653107, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1557653107, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1557653107, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1557653107, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1557653107, 0]
