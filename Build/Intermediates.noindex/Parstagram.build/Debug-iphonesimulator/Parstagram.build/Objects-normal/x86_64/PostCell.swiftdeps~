@@ -7,10 +7,15 @@ provides-member:
 - ["10Parstagram8PostCellC", ""]
 provides-dynamic-lookup:
 - "awakeFromNib"
+- "captionLabel"
+- "photoView"
 - "setSelected"
+- "usernameLabel"
 depends-top-level:
 - "Bool"
 - "PostCell"
+- "UIImageView"
+- "UILabel"
 - "UITableViewCell"
 depends-member:
 - ["So15CALayerDelegateP", ""]
@@ -49,19 +54,29 @@ depends-member:
 - !private ["So8NSCodingP", "init"]
 - !private ["So8NSCodingP", "setSelected"]
 - ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UILabel"]
 - ["So8NSObjectC", "awakeFromNib"]
+- ["So8NSObjectC", "captionLabel"]
 - ["So8NSObjectC", "init"]
 - !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "photoView"]
 - ["So8NSObjectC", "setSelected"]
+- ["So8NSObjectC", "usernameLabel"]
 - ["So8NSObjectP", ""]
 - !private ["So8NSObjectP", "awakeFromNib"]
 - !private ["So8NSObjectP", "init"]
 - !private ["So8NSObjectP", "init"]
 - !private ["So8NSObjectP", "setSelected"]
 - ["10Parstagram8PostCellC", "Bool"]
+- ["10Parstagram8PostCellC", "UIImageView"]
+- ["10Parstagram8PostCellC", "UILabel"]
 - ["10Parstagram8PostCellC", "awakeFromNib"]
+- ["10Parstagram8PostCellC", "captionLabel"]
 - ["10Parstagram8PostCellC", "init"]
+- ["10Parstagram8PostCellC", "photoView"]
 - ["10Parstagram8PostCellC", "setSelected"]
+- ["10Parstagram8PostCellC", "usernameLabel"]
 - ["So29UIAccessibilityIdentificationP", ""]
 - !private ["So29UIAccessibilityIdentificationP", "awakeFromNib"]
 - !private ["So29UIAccessibilityIdentificationP", "init"]
@@ -113,21 +128,31 @@ depends-member:
 - !private ["So30UIPasteConfigurationSupportingP", "init"]
 - !private ["So30UIPasteConfigurationSupportingP", "setSelected"]
 - ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UILabel"]
 - ["So11UIResponderC", "awakeFromNib"]
+- ["So11UIResponderC", "captionLabel"]
 - ["So11UIResponderC", "init"]
 - !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "photoView"]
 - ["So11UIResponderC", "setSelected"]
+- ["So11UIResponderC", "usernameLabel"]
 - ["So30UIResponderStandardEditActionsP", ""]
 - !private ["So30UIResponderStandardEditActionsP", "awakeFromNib"]
 - !private ["So30UIResponderStandardEditActionsP", "init"]
 - !private ["So30UIResponderStandardEditActionsP", "init"]
 - !private ["So30UIResponderStandardEditActionsP", "setSelected"]
 - ["So15UITableViewCellC", "Bool"]
+- ["So15UITableViewCellC", "UIImageView"]
+- ["So15UITableViewCellC", "UILabel"]
 - ["So15UITableViewCellC", ""]
 - ["So15UITableViewCellC", "awakeFromNib"]
+- ["So15UITableViewCellC", "captionLabel"]
 - ["So15UITableViewCellC", "init"]
 - !private ["So15UITableViewCellC", "init"]
+- ["So15UITableViewCellC", "photoView"]
 - ["So15UITableViewCellC", "setSelected"]
+- ["So15UITableViewCellC", "usernameLabel"]
 - ["So18UITraitEnvironmentP", ""]
 - !private ["So18UITraitEnvironmentP", "awakeFromNib"]
 - !private ["So18UITraitEnvironmentP", "init"]
@@ -139,10 +164,15 @@ depends-member:
 - !private ["So23UIUserActivityRestoringP", "init"]
 - !private ["So23UIUserActivityRestoringP", "setSelected"]
 - ["So6UIViewC", "Bool"]
+- ["So6UIViewC", "UIImageView"]
+- ["So6UIViewC", "UILabel"]
 - ["So6UIViewC", "awakeFromNib"]
+- ["So6UIViewC", "captionLabel"]
 - ["So6UIViewC", "init"]
 - !private ["So6UIViewC", "init"]
+- ["So6UIViewC", "photoView"]
 - ["So6UIViewC", "setSelected"]
+- ["So6UIViewC", "usernameLabel"]
 - ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
 - !private ["s37_DefaultCustomPlaygroundQuickLookableP", "awakeFromNib"]
 - !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
@@ -274,4 +304,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/StoreKit.framework/Headers/StoreKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "e42ed312a718d4a2d4a8bddd9f1cc2af"
+interface-hash: "f97884fba7d98fcdba0053a1bb24028b"

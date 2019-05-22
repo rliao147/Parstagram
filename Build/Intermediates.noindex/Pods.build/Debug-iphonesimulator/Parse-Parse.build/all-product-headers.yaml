@@ -125,6 +125,33 @@
     },
     {
       'type': 'directory',
+      'name': "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Build/Products/Debug-iphonesimulator/MessageInputBar/MessageInputBar.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MessageInputBar-Swift.h",
+          'external-contents': "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Build/Products/Debug-iphonesimulator/MessageInputBar/MessageInputBar.framework/Headers/MessageInputBar-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MessageInputBar-umbrella.h",
+          'external-contents': "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/Target Support Files/MessageInputBar/MessageInputBar-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Build/Products/Debug-iphonesimulator/MessageInputBar/MessageInputBar.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/MessageInputBar.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
       'name': "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Build/Products/Debug-iphonesimulator/Parse/Parse.framework/Headers",
       'contents': [
         {

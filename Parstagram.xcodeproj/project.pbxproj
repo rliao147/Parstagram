@@ -11,6 +11,7 @@
 		443D05852289D517002B1351 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 443D05842289D517002B1351 /* FeedViewController.swift */; };
 		443D05872289EAC9002B1351 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 443D05862289EAC9002B1351 /* CameraViewController.swift */; };
 		443D0589228A0521002B1351 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 443D0588228A0521002B1351 /* PostCell.swift */; };
+		446749232294AB6C00D4BAF3 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 446749222294AB6C00D4BAF3 /* CommentCell.swift */; };
 		44EACFA322881D6C00E4E94A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44EACFA222881D6C00E4E94A /* AppDelegate.swift */; };
 		44EACFA822881D6C00E4E94A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44EACFA622881D6C00E4E94A /* Main.storyboard */; };
 		44EACFAA22881D7000E4E94A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44EACFA922881D7000E4E94A /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 		443D05842289D517002B1351 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		443D05862289EAC9002B1351 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		443D0588228A0521002B1351 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		446749222294AB6C00D4BAF3 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		44EACF9F22881D6C00E4E94A /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		44EACFA222881D6C00E4E94A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		44EACFA722881D6C00E4E94A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				443D05842289D517002B1351 /* FeedViewController.swift */,
 				44EACFAB22881D7000E4E94A /* LaunchScreen.storyboard */,
 				44EACFAE22881D7000E4E94A /* Info.plist */,
+				446749222294AB6C00D4BAF3 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
 				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
+				"${BUILT_PRODUCTS_DIR}/MessageInputBar/MessageInputBar.framework",
 				"${BUILT_PRODUCTS_DIR}/Parse/Parse.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -187,6 +191,7 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireImage.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MessageInputBar.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Parse.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -228,6 +233,7 @@
 				443D05852289D517002B1351 /* FeedViewController.swift in Sources */,
 				44EACFA322881D6C00E4E94A /* AppDelegate.swift in Sources */,
 				443D0589228A0521002B1351 /* PostCell.swift in Sources */,
+				446749232294AB6C00D4BAF3 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

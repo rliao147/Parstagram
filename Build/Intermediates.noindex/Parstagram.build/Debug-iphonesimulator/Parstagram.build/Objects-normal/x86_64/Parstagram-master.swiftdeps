@@ -1,9 +1,10 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "612767cd991678007bd9917a0e51383c"
-build_time: [1557780721, 94021000]
+options: "bb88d5789a736dbeecfaf6b0fab97779"
+build_time: [1558490303, 534272000]
 inputs:
   "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Parstagram/LoginViewController.swift": [1557767748, 0]
   "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Parstagram/CameraViewController.swift": [1557776703, 0]
-  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Parstagram/FeedViewController.swift": [1557780720, 0]
-  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Parstagram/AppDelegate.swift": [1557655783, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Parstagram/FeedViewController.swift": [1558490303, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Parstagram/AppDelegate.swift": [1558463086, 0]
   "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Parstagram/PostCell.swift": [1557778892, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Parstagram/CommentCell.swift": [1558476609, 0]
