@@ -1,0 +1,15 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "6ed64e14a271150fd34c14fd760a4237"
+build_time: [1558478793, 500824000]
+inputs:
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/MessageInputBar/Sources/Controls/InputBarButtonItem.swift": [1558478783, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/MessageInputBar/Sources/Protocols/InputItem.swift": [1558478783, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/MessageInputBar/Sources/Protocols/InputPlugin.swift": [1558478783, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/MessageInputBar/Sources/Views/InputStackView.swift": [1558478783, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/MessageInputBar/Sources/Views/InputTextView.swift": [1558478783, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/MessageInputBar/Sources/MessageInputBar.swift": [1558478783, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/MessageInputBar/Sources/Protocols/MessageInputBarDelegate.swift": [1558478783, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/MessageInputBar/Sources/Models/NSConstraintLayoutSet.swift": [1558478783, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/MessageInputBar/Sources/Extensions/NSMutableAttributedString+Extensions.swift": [1558478783, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/MessageInputBar/Sources/Views/SeparatorLine.swift": [1558478783, 0]
+  "/Users/RyanLiao/Desktop/XCodeWorkspace/Parstagram/Pods/MessageInputBar/Sources/Extensions/UIView+Extensions.swift": [1558478783, 0]
